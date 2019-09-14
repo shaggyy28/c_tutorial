@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "stdio.h": "c",
+        "libio.h": "c",
+        "_g_config.h": "c"
+    }
+}
